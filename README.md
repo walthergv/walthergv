@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Walther Galan Vite</h1>
-<h3 align="center">A passionate backend developer from Perú</h3>
+<h3 align="center">A passionate Java backend developer from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walthergv&label=Profile%20views&color=0e75b6&style=flat" alt="walthergv" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Deploy of Microservices**
 
 - 📫 How to reach me **wgalanvite@gmail.com**
 
